@@ -16,9 +16,9 @@ Corresponding BlogPost for project can be found here -> https://towardsdatascien
 Link to Kaggle Kernel -> https://www.kaggle.com/ritesaluja/fifa19/notebook
 
 ## Libraries <a name="libraries"></a>
-Numpy, Pandas - for data analysis 
-Matplotlib & Seaborn - for visualizations 
-Sklearn - for gridsearch and modeling 
+Numpy, Pandas - for data analysis;  
+Matplotlib & Seaborn - for visualizations; 
+Scikit-learn - for gridsearch and modeling; 
 
 ## Motivation <a name="motivation"></a>
 Exploration of FIFA player 19 dataset gave me an opportunity to merge my interest of DataScience and Soccer. 
