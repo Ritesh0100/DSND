@@ -1,2 +1,4 @@
 # DSND
-Data Science Nanodegree Projects 
+Udacity Data Science Nanodegree Projects 
+
+
