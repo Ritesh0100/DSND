@@ -2,7 +2,7 @@
 
 
 ## Table of Contents
-<a href="section1">1. Installation 4</a>
+1. Installation
 2. Problem Definition
 3. Motivation
 4. Files
@@ -11,7 +11,7 @@
 6. Licensing, Authors, and Acknowledgements
 
 
-## Installation<A name="section1"></A>
+## Installation
 This project is implemented in Python, using below Libraries-
 
 Pyspark - for major data pre-processing and modelling
@@ -33,6 +33,13 @@ The Repo contains only the 'Sparkify.ipynb' notebook which is a result of workin
 
 ## Results 
 Logisitc Regression, Random Forest and Linear SVC were used as Models to predict user churn, optimizing the F1-Metric (which was found appropriate given the nature of the project). Random Forest model performed best. The result for same is published as part of blogpost [here]().
+
+
+## Enhancements Potential 
+1. Extension of the project to not just predict, but also identify core factors leading to churn
+2. Further feature engineering and use of complex models like Neural Nets 
+3. Inlusion of external data sources like Customer demographics, likes and dislikes. 
+4. Web App development for the easy interface for the company
 
 
 ## Licensing, Authors, Acknowledgements
