@@ -2,7 +2,7 @@
 
 
 ## Table of Contents
-1. Installation
+<a href="section1">1. Installation 4</a>
 2. Problem Definition
 3. Motivation
 4. Files
@@ -11,7 +11,7 @@
 6. Licensing, Authors, and Acknowledgements
 
 
-## Installation
+## Installation<A name="section1"></A>
 This project is implemented in Python, using below Libraries-
 
 Pyspark - for major data pre-processing and modelling
@@ -32,10 +32,10 @@ The Repo contains only the 'Sparkify.ipynb' notebook which is a result of workin
 
 
 ## Results 
-Logisitc Regression, Random Forest and Linear SVC were used as Models to predict user churn, optimizing the F1-Metric (which was found appropriate given the nature of the project). Random Forest model performed best. The result for same is published as part of blogpost here ().
+Logisitc Regression, Random Forest and Linear SVC were used as Models to predict user churn, optimizing the F1-Metric (which was found appropriate given the nature of the project). Random Forest model performed best. The result for same is published as part of blogpost [here]().
 
 
 ## Licensing, Authors, Acknowledgements
 The work here is for educational purpose & is Open Source and can therefore be use by anyone for manipulation and help (feel free to use the code as you like). 
 
-Credit for the project goes to Udacity (https://www.udacity.com/) for all the help & support in completion of this project as part of the coursework. 
+Credit for the project goes to [Udacity](https://www.udacity.com/) for all the help & support in completion of this project as part of the coursework. 
